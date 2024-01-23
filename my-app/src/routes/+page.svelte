@@ -18,11 +18,12 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		To my website<br/> for Distributed Web Systems Design
 	</h1>
-
 	<h2>
-		try using <strong>src/routes/+page.svelte</strong>
+		This is my website that I have started working on for my class assignment. This is how I display my knowledge of HTML, CSS, and JavaScript. 
+		To learn more go to the <a href=http://localhost:5173/about>about</a> tab.
+		To play Sverdle go to the <a href=http://localhost:5173/sverdle>Sverdle</a> tab.
 	</h2>
 
 	<Counter />
@@ -40,7 +41,10 @@
 	h1 {
 		width: 100%;
 	}
-
+	h2 {
+		text-align: left;
+		width: 50%;
+	}
 	.welcome {
 		display: block;
 		position: relative;

@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>	Contact me at <a href=mailto:ke05739@georgiasouthern.edu> ke05739@georgiasouthern.edu</a></p>
 	</footer>
 </div>
 
