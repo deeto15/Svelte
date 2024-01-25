@@ -4,23 +4,21 @@
 </svelte:head>
 
 <div class="text-column">
-	<h1>About this app</h1>
+	<h1>About my Project</h1>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
+		I started this website as a class project for Distributed Web Systems Design. You can create your own by clicking the links on the right or left sides of the header.
 	</p>
 
 	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
+		Our assignment is to create a working website. I did not feel like creating an entire website from scratch using raw HTML, so I decided to use a skeleton project as recommended by my Professor.
+	</p>
+
+	<p>
+		You can use the Sverdle page to play a ripoff of Scrabble. It is fun but also shows how the website is interactive. I will probably be changing that later on to do something else so that my project differs from the original Svelte clone.
+	</p>
+
+	<p>
+		I will be adding and updating features as time goes on. This is just the beginning!	
 	</p>
 </div>

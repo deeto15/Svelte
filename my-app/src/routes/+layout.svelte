@@ -11,7 +11,8 @@
 	</main>
 
 	<footer>
-		<p>	Contact me at <a href=mailto:ke05739@georgiasouthern.edu> ke05739@georgiasouthern.edu</a></p>
+		<p>	Contact me at <a href=mailto:ke05739@georgiasouthern.edu> ke05739@georgiasouthern.edu</a>
+			<br>I built this website by utilizing the Svelte Devkit</p>
 	</footer>
 </div>
 
@@ -37,7 +38,7 @@
 		display: flex;
 		flex-direction: column;
 		justify-content: center;
-		align-items: center;
+		align-items:center;
 		padding: 12px;
 	}
 
